@@ -1,8 +1,17 @@
+hunter_gatherers_group = {
+	graphical_culture = westerngfx
+	
+	scandinavian_hunter_gatherers = {
+		male_names = {}
+		female_names = {}
+		dynasty_names = {}
+	}
+}
+
 indo_european_culture_group = {
 	graphical_culture = westerngfx
 	
 	corded_ware_culture = {
-        #color = { 0.6 0.4 0.2 }
 		male_names = {}
 		female_names = {}
 		dynasty_names = {}
@@ -13,7 +22,12 @@ preindo_european_culture_group = {
 	graphical_culture = westerngfx
 	
 	pitted_ware_culture = {
-        #color = { 0.6 0.4 0.2 }
+		male_names = {}
+		female_names = {}
+		dynasty_names = {}
+	}
+	
+	funnelbeaker_culture = {
 		male_names = {}
 		female_names = {}
 		dynasty_names = {}

@@ -1,13 +1,20 @@
 #Skaraborg, contains Skara, Skövde etc.
 
-culture = corded_ware_culture
+culture = funnelbeaker_culture
 religion = megalithic
 trade_goods = grain
 hre = no
-native_size = 15
+native_size = 12
 native_ferocity = 1
-native_hostileness = 2
+native_hostileness = 1
 
+# Always discovered
+discovered_by = chinese
+discovered_by = eastern
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = sub_saharan
 discovered_by = western
 
 #add_core = SWE
